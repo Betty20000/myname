@@ -1,5 +1,5 @@
 # myname
-#this will print out my name,age,height and country.
+#this will print out my name,height and country.
 <!DOCTYPE html>
 <html lang="en">
 <head>
